@@ -75,6 +75,11 @@ The geographical locations of the water pumps are shown below. They have been co
 
 ![Water Pumps Locations](./geographical_location.png)
 
+After isolating just the non-functional water pumps, we can see how they are distributed across the country
+
+![Heatmap non-functional water pumps](./non_functional_heat_map.png)
+
+
 Water Quality vs Status Group:
 
 ![Water Pumps Locations](./water_quality.png)
@@ -83,6 +88,14 @@ Water Quality vs Status Group:
 A correlation matrix helps us understand the relationship between different features in the dataset. Shown below:
 
 ![Water Pumps Locations](./corrolation_matrix.png)
+
+
+The regional distribution of water pumps is shown below
+
+
+![Regional Status](./regional_status.png)
+
+
 
 
 
